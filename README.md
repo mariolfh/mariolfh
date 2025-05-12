@@ -1,11 +1,11 @@
 # 👋🏻 Hi, I’m Mario!
 
-- 💻 I'm a big fan of computers. I live in Cuba and I can speak fluent english and spanish.
-- 🎓 I studied Computer Science at the [University of Informatics Sciences](https://www.uci.cu) located in Havana, Cuba. Graduated top of my class on December, 2023
+- 💻 I'm a big fan of computers. I live in Cuba and I can speak fluent english and spanish, and a little bit of French and Japanese.
+- 🎓 I studied Computer Science at the [University of Informatics Sciences](https://www.uci.cu) located in Havana, Cuba. Graduated top of my class on December, 2023.
 - 👀 I’m interested in everything related to technology and programming.
-- 🌱 I’m currently learning everything I can, but I'm starting with Python and Web Development languages.
+- 🌱 I’m currently learning everything I can and like. I'm a big fan of documentation and terminals.
 - 💞️ I’m looking to collaborate on anything that is valuable and can make me learn new things. Plus, I'm happy to help anyone I can.
-- 📫 How to reach me: Still figuring that out
+- 📫 How to reach me: Still figuring that out.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariolfh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariolfh&hide_border=false)
