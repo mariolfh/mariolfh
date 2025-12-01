@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on anything that is valuable and can make me learn new things. Plus, I'm happy to help anyone I can.
 - 📫 How to reach me: Still figuring that out.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariolfh"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariolfh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariolfh&hide_border=false)
 
 # 💻 Tech stack:
